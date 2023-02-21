@@ -13,30 +13,30 @@
 <body>
 <br>
 <div align="center">
-<img src="https://animesher.com/orig/1/102/1027/10272/animesher.com_sora-no-game-no-life-shiro-1027233.gif">
+<img src="https://gifdb.com/images/file/nino-nakano-manga-animation-7nxs9qh9ysue2zdd.gif">
 </div>
 <br>
   
 ```csharp
 My Profile v2.0.2: 破壊「はかい」
 -------------------------------
-Username: Haruto.
-WhoamI: physicist and Computer Engineer. Also musician (more or less).
-OS: Ubuntu 22.04.1 LTS.
+Username: Haruto
+WhoamI: Computer Engineer, Designer and Cloud Developers (Also Ex Pro-Player) .
+OS: Windows 10 2h22 & Kali ubuntu 20.04 .
 Shell: Bash.
-Telegram: @yoshimakayaba.
-FavouriteAnime: 五等分の花嫁 (The Quintessential Quintuplets)💒📕👰🏻
-Loves: 中野五月 (Nakano Itsuki) (❤️ ω ❤️), Videogames 🎮, To play my piano 🎹.
+Telegram: @sabbiisma_robbi
+Favourite Anime: All Anime I like it (No for LGBT)
+Loves: 中野五月 (Nakano Nino) <3 <3, Game
 Pronouns: He-Him.
-Location: Planet Kepler-452b.
+Location: Tokyo, Japan. 
 Languages: C,C++, Python.
 Hobbyes: Python, C, C++.
-Learning: Swift, Kotlin.
-FavouriteSong: Sweeter than wine by NCW.
-FavouriteEquation: Fourier transform. 
-Hobbies: Gaming,Watching anime,Coding 
+Learning: Ruby.
+Favourite Song: This Game - Konomi Suzuki
+Favourite Equation: Fourier transform. 
+Hobbies: Gaming,Watching anime, and i dont like coding
 while I am listening music.
-My Favourite singers (アイドル):  高橋李依 (Rie Takahashi) and  雨宮天 (Sora Amamiya). 🎤🎶🎼
+My Favourite singers (アイドル):  ADO, LiSA, And Another Anime Opening & Ending
 
 ```
 
@@ -85,7 +85,7 @@ My Favourite singers (アイドル):  高橋李依 (Rie Takahashi) and  雨宮�
 
 <br>
 
-<h2 align = "center"> 📉 GitHub Stats</h2>
+<h2 align = "center"> 📉 My Old Account GitHub Stats</h2>
 <div>
 <p align = "center">
     <a href="https://github-readme-stats.vercel.app">
