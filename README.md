@@ -120,7 +120,7 @@ My Favourite singers (アイドル):  ADO, LiSA, And Another Anime Opening & End
 </a>
 <a href="https://linkedin.com/in/juan-ang-1307191b0" target="_blank">
 <img src=https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
-</a>  <br><img src = "https://animesher.com/orig/1/149/1496/14961/animesher.com_oreki-hotarou-black-and-white-gif-1496140.gif" width = "400"/>
+</a>  <br><img src = "https://media4.giphy.com/media/SnVZO1N0Wo6u4/giphy.gif" width = "400"/>
 </div>  
 
 
