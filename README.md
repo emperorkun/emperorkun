@@ -9,13 +9,14 @@
 
 <h2 align="center"> 👁️‍🗨️ About me 👁️‍🗨️ </h2>
 
-<h1 align="center">No Game No Life<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"></h1>
+<h1 align="center">No Game No Life</h1>
 <body>
 <br>
 <div align="center">
-<img src="https://thumbs.gfycat.com/DarlingHastyHake-size_restricted.gif">
+<img src="https://animesher.com/orig/1/102/1027/10272/animesher.com_sora-no-game-no-life-shiro-1027233.gif">
 </div>
 <br>
+  
 ```csharp
 My Profile v2.0.2: 破壊「はかい」
 -------------------------------
