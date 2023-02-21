@@ -109,7 +109,8 @@ My Favourite singers (アイドル):  ADO, LiSA, And Another Anime Opening & End
 <div align="center"></div>  
 <br>
 
-# My contributions game 🐍🎮
+ <h1 align="center">My contributions game 🐍🎮</h1>
+
 
 ![](https://raw.githubusercontent.com/J3xLe1988B3lx0x2E6/J3xLe1988B3lx0x2E6/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/J3xLe1988B3lx0x2E6/J3xLe1988B3lx0x2E6/output/github-contribution-grid-snake.svggh-light-mode-only)
