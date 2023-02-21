@@ -16,7 +16,12 @@
 <img src="https://gifdb.com/images/file/nino-nakano-manga-animation-7nxs9qh9ysue2zdd.gif">
 </div>
 <br>
-  
+  ```zsh
+> neofetch
+```
+
+<img align="left" src="img/screen-0.jpg" width="130px"/> 
+
 ```csharp
 My Profile v2.0.2: 破壊「はかい」
 -------------------------------
