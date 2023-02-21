@@ -131,8 +131,7 @@ My Favourite singers (アイドル):  ADO, LiSA, And Another Anime Opening & End
 <h2 align="center">Thank you for reading 🙋🏻‍♂️</h2>
 <div>
 <p>
-<img src="https://c.tenor.com/O097AH2p5EEAAAAC/nakano-itsuki-go-toubun-no-hanayome.gif" align="right" />
-<img src = "https://spotify-github-profile.vercel.app/api/view?uid=12174580645&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" align = "left" width="200px"/>
+<img src="https://cdn.donmai.us/sample/af/ed/__nakano_nino_nakano_miku_nakano_yotsuba_nakano_itsuki_and_nakano_ichika_go_toubun_no_hanayome_drawn_by_haruba_negi__sample-afed08cd42dc7679e8d694c0226e2628.jpg" align="center" />
    </p>
   </div>
 <br> 
