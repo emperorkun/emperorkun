@@ -16,11 +16,12 @@
 <img src="https://gifdb.com/images/file/nino-nakano-manga-animation-7nxs9qh9ysue2zdd.gif">
 </div>
 <br>
+ 
   ```zsh
 > neofetch
 ```
 
-<img align="left" src="img/itsukinakano.png" width="130px"/> 
+<img align="left" src="screen-0.jpg" width="300px"/> 
 
 ```csharp
 My Profile : 空 / そら / ソラ
@@ -125,7 +126,7 @@ My Favourite singers (アイドル):  ADO, LiSA, And Another Anime Opening & End
 </a>
 <a href="https://linkedin.com/in/juan-ang-1307191b0" target="_blank">
 <img src=https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
-</a>  <br><img src = "https://media4.giphy.com/media/SnVZO1N0Wo6u4/giphy.gif" width = "400"/>
+</a>  <br><img src = "https://media4.giphy.com/media/SnVZO1N0Wo6u4/giphy.gif" width = "500"/>
 </div>  
 
 
@@ -136,7 +137,7 @@ My Favourite singers (アイドル):  ADO, LiSA, And Another Anime Opening & End
 <h2 align="center">Thank you for reading 🙋🏻‍♂️</h2>
 <div>
 <p>
-<img src="https://cdn.donmai.us/sample/af/ed/__nakano_nino_nakano_miku_nakano_yotsuba_nakano_itsuki_and_nakano_ichika_go_toubun_no_hanayome_drawn_by_haruba_negi__sample-afed08cd42dc7679e8d694c0226e2628.jpg" align="center" />
+<img src="https://cdn.donmai.us/sample/af/ed/__nakano_nino_nakano_miku_nakano_yotsuba_nakano_itsuki_and_nakano_ichika_go_toubun_no_hanayome_drawn_by_haruba_negi__sample-afed08cd42dc7679e8d694c0226e2628.jpg" width = "1000" align="center" />
    </p>
   </div>
 <br> 
