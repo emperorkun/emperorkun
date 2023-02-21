@@ -9,12 +9,13 @@
 
 <h2 align="center"> 👁️‍🗨️ About me 👁️‍🗨️ </h2>
 
-```zsh
-> neofetch
-```
-
-<img align="left" src="img/itsukinakano.png" width="130px"/> 
-
+<h1 align="center">No Game No Life<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"></h1>
+<body>
+<br>
+<div align="center">
+<img src="https://thumbs.gfycat.com/DarlingHastyHake-size_restricted.gif">
+</div>
+<br>
 ```csharp
 My Profile v2.0.2: 破壊「はかい」
 -------------------------------
@@ -113,11 +114,11 @@ My Favourite singers (アイドル):  高橋李依 (Rie Takahashi) and  雨宮�
 <a href="https://github.com/emperorkun" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/Sabbiisma" target="_blank">
+<a href="https://twitter.com/sabbiisma" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/juan-ang-1307191b0" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
 </a>  <br><img src = "https://i.pinimg.com/originals/59/36/21/5936211051bd2b5b8d14442230a9f4b4.gif" width = "400"/>
 </div>  
 
