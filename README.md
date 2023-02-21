@@ -53,17 +53,17 @@ My Favourite singers (アイドル):  ADO, LiSA, And Another Anime Opening & End
 <br>
 <br>
 
-<p align="right"><a href = "https://www.youtube.com/watch?v=ziZX0vy8xAM"><img src = "https://i.ytimg.com/vi/ziZX0vy8xAM/maxresdefault.jpg" width = "170" align = "left"/></a><b>奏(かなで)CV:高橋李依とCV:雨宮天<br>
-                  🎵ふたりはいつもどんな時もつながっていける。🎵</b></p>
+<p align="right"><a href = "https://www.youtube.com/watch?v=x8VYWazR5mE"><img src = "https://i.ytimg.com/vi/x8VYWazR5mE/maxresdefault.jpg" width = "170" align = "left"/></a><b><br>
+                  🎵YOASOBI - 夜に駆ける🎵</b></p>
 <br>
 <br>
 
-<p align="left"><a href = "https://www.youtube.com/watch?v=oXlEEXws3gc"><img  src ="https://i.ytimg.com/vi/oXlEEXws3gc/maxresdefault.jpg" width="170" align="right"></a><b><br><br>高橋李依🎶「共感されなくてもいいじゃない」。🎶🆙</b></p>
+<p align="left"><a href = "https://www.youtube.com/watch?v=Qp3b-RXtz4w"><img  src ="https://i.ytimg.com/vi/Qp3b-RXtz4w/maxresdefault.jpg" width="170" align="right"></a><b><br><br>Ado 🎶 うっせぇわ 🎶🆙</b></p>
 
 <br>
 <br>
 
-<p align="right"><a href="https://www.youtube.com/watch?v=jC97suFyObw"><img src="https://i.ytimg.com/vi/jC97suFyObw/maxresdefault.jpg" width="170" align="left"></a><b><br>雨宮天🎶「ロンリーナイト・ディスコティック」。🎶💌</b></p>
+<p align="right"><a href="https://www.youtube.com/watch?v=IzhMzY5avLI"><img src="https://i.ytimg.com/vi/IzhMzY5avLI/maxresdefault.jpg" width="170" align="left"></a><b><br>🎶LiSA - Rising Hope。🎶💌</b></p>
 <br>
 </div>
 <br>
